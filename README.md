@@ -4,3 +4,5 @@ REGEX
 Passwords.txt
 merge txt files
 credentials.txt
+
+merge logs url login pass
